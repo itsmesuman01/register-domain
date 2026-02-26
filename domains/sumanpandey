@@ -1,0 +1,12 @@
+{
+  "description": "Personal website and online resume hosted on Vercel using a dedicated subdomain.",
+  "domain": "is-cool.dev",
+  "subdomain": "sumanpandey",
+  "owner": {
+    "email": "sumanpandey977n@gmail.com"
+  },
+  "record": {
+    "CNAME": "sumanpandey.vercel.app"
+  },
+  "proxied": false
+}
